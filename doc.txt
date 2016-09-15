@@ -20,6 +20,32 @@ Production : 6810 exemplaires dont 2074 M5
 Blindage avant : 44 mm
 Blindage arrière : 13 m
 
+Deux types différents de chenilles en caoutchouc équipèrent les M3 et M3A1:
+
+T16E1 type: guides externes, double goupille, caoutchouc renforcé, caoutchouc réversible
+Largeur: 295 mm - Pas (espacement): 140 mm - Patins: 2 x 66 - Contact au sol: 2.97 m
+T16E2 type: guides externes, double goupille, caoutchouc renforcé, caoutchouc non-réversible
+Largeur: 295 mm - Pas (espacement): 140 mm - Patins: 2 x 66 - Contact au sol: 2.97 m
+
+Le M3A3 fut quant à lui équipé de 4 types de chenilles différentes:
+
+T16E1 type: guides externes, double goupille, caoutchouc renforcé, caoutchouc réversible
+Largeur: 295 mm - Pas (espacement): 140 mm - Patins: 2 x 66 - Contact au sol: 2.97 m
+T16E2 type: guides externes, double goupille, caoutchouc renforcé, caoutchouc non-réversible
+Largeur: 295 mm - Pas (espacement): 140 mm - Patins: 2 x 66 - Contact au sol: 2.97 m
+T36E6 type: guides externes, double goupille, caoutchouc renforcé, acier, grousers
+Largeur: 295 mm - Pas (espacement): 140 mm - Patins: 2 x 66 - Contact au sol: 2.97 m
+T55E1 type: guides externes, double goupille, caoutchouc renforcé, chevron
+Largeur: 295 mm - Pas (espacement): 140 mm - Patins: 2 x 66 - Contact au sol: 2.97 m
+
+
+
 links :
 http://charstuart.skynetblogs.be/
+http://tank-photographs.s3-website-eu-west-1.amazonaws.com/stuart-m5-light-tank.html
+http://www.toadmanstankpictures.com/m5_stuart.htm
+http://g503.com/forums/viewtopic.php?f=24&t=163144&start=0 # re-rebubber track
+http://www.militarytracks.com/m5-stuart-tank-tread/ # re-ruber track
+http://www.wardrawings.be/WW2/Files/1-Vehicles/Allies/1-USA/01-LightTanks/M3-M5Stuart/File/3-Design-bis.htm
+
 
